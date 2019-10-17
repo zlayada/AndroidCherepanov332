@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Смена языка</string>
+    <string name="textScreen">Переключение языков</string>
+    <string name="tLanguageText">Переключить язык</string>
+    <string name="rus" translatable="false">Русский</string>
+    <string name="eng" translatable="false">Английский</string>
+
+    <string-array name="languageText">
+        <item>@string/rus</item>
+        <item>@string/eng</item>
+    </string-array>
+
+
+</resources>

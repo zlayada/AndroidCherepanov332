@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Switch language</string>
+        <string name="textScreen">Language switching</string>
+        <string name="tLanguageText">Switch language</string>
+        <string name="rus" translatable="false">Russian</string>
+        <string name="eng" translatable="false">English</string>
+
+        <string-array name="languageText">
+            <item>@string/rus</item>
+            <item>@string/eng</item>
+        </string-array>
+
+</resources>
